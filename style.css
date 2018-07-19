@@ -1,0 +1,77 @@
+/* Add styles here */
+
+.basic_header {
+	color: white;
+	text-align: center;
+	vertical-align: center;
+	font-family: georgia;
+	font-size: 30px;
+	background: black;
+	font-weight: 30px;
+	font: bold;
+	overflow:hidden;
+	height: 100px;
+   	width: 100%;
+   	-moz-border-radius: 11px 11px 11px 11px;
+   	-webkit-border-radius: 11px 11px 11px 11px;
+   	border-radius: 11px 11px 11px 11px;
+   	box-shadow: 3px 3px 15px #330033;
+	
+}
+
+.basic_select {
+	color: white;
+	font: bold;
+	overflow:hidden;
+	height: 30px;
+   	width:350px;
+   	-moz-border-radius: 11px 11px 11px 11px;
+   	-webkit-border-radius: 11px 11px 11px 11px;
+   	border-radius: 11px 11px 11px 11px;
+   	box-shadow: 3px 3px 15px #330033;
+   	background: #58B14C;/* url("http://i62.tinypic.com/15xvbd5.png") no-repeat scroll 319px center;*/
+}
+
+.basic_div {
+   	border: 0;
+   	color: #fff;
+   	background: transparent;
+   	font-size: 20px;
+   	font-weight: bold;
+   	padding: 2px 10px;
+   	width: 378px;
+   	*width: 350px;
+   	*background: #58B14C;
+   	-webkit-appearance: none;
+}
+
+.basic_button {
+	color: white;
+	font: bold;
+	overflow:hidden;
+	height: 30px;
+   	width:150px;
+   	/*-moz-border-radius: 11px 11px 11px 11px;
+   	-webkit-border-radius: 11px 11px 11px 11px;*/
+   	border-radius: 11px 11px 11px 11px;
+   	box-shadow: 3px 3px 15px #330033;
+   	background: blue; /*url("http://i62.tinypic.com/15xvbd5.png") no-repeat scroll 319px center;*/
+}
+
+.basic_image {
+	border: 10px solid black;
+    padding: 15px;
+    border-image: url(border.png) 20% round;
+}
+
+/*
+#myDiv_1 {
+  background: red;
+}
+
+#myDiv_2 {
+ background: red;
+}
+*/
+
+
